@@ -6,6 +6,7 @@ import { AboutComponent } from './components/about/about.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { RouterModule } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
+import { ScullyLibModule } from '@scullyio/ng-lib';
 
 @NgModule({
 	declarations: [
@@ -18,6 +19,7 @@ import { AppRoutingModule } from './app-routing.module';
 		BrowserModule,
 		RouterModule,
 		AppRoutingModule,
+  ScullyLibModule,
 	],
 	providers: [],
 	bootstrap: [ AppComponent ],
