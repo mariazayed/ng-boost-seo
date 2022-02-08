@@ -4,8 +4,8 @@ staticPort: 1668
 reloadPort: 2667
 hostName: localhost
 projectName: ng-boost-seo
-homeFolder: C:\Users\m.zayed\Desktop\Projects\ng-boost-seo
+homeFolder: C:\Users\maria\OneDrive\Desktop\Projects\Angular\ng-boost-seo
 distFolder: dist/ng-boost-seo
-outDir: C:\Users\m.zayed\Desktop\Projects\ng-boost-seo\dist\static
+outDir: C:\Users\maria\OneDrive\Desktop\Projects\Angular\ng-boost-seo\dist\static
 handle404: ''
 allowErrorCollect: true
